@@ -1,3 +1,6 @@
+#Author:      H4rapA1b
+#Version:     1.2
+#Last Update: 15.05.2021
 
 import os,base64,sqlite3,win32crypt
 from Crypto.Cipher import AES
